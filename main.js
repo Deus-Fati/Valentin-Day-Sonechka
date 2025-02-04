@@ -10,7 +10,7 @@ document.addEventListener('keydown', function(e) {
 
 const messages = [
 "Нажми в любом месте ;)",  
-"",
+"Привет",
 "",
 "",
 "",
